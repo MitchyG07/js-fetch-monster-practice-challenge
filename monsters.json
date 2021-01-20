@@ -6005,6 +6005,36 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "name": "Mitchell Gilbert",
+      "age": "15",
+      "description": "has a temper but is chill",
+      "id": 1002
+    },
+    {
+      "name": "Mitchy G",
+      "age": "12",
+      "description": "not a good guy ",
+      "id": 1003
+    },
+    {
+      "name": "Snickers",
+      "age": "15",
+      "description": "has a temper but is chill",
+      "id": 1004
+    },
+    {
+      "name": "Poop",
+      "age": "15",
+      "description": "has a temper but is chill",
+      "id": 1005
+    },
+    {
+      "name": "Unisex Heavy Blend™ Hooded Sweatshirt",
+      "age": "15",
+      "description": "has a temper but is chill",
+      "id": 1006
     }
   ]
 }
